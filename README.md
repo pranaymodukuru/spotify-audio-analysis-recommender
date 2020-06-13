@@ -4,7 +4,7 @@ A data analysis project to analyse different features of music over the last 100
 
 Tasks 
 - [x] Data Analysis
-- [] Build a recommender system
+- [ ] Build a recommender system
 
 ## Acknowledgements
 
